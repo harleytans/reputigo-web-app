@@ -20,7 +20,7 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "https://your-reputigo-webflow-domain.com/",
+  "start_url": "https://www.reputigo.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4A90E2"
